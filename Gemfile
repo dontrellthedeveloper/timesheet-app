@@ -26,7 +26,10 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
 
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
+
 gem 'devise', '~> 4.2'
+gem 'bootstrap-sass', '~> 3.4'
 
 
 
