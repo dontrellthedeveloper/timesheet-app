@@ -32,6 +32,7 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 
 gem 'devise', '~> 4.2'
 gem 'bootstrap-sass', '~> 3.4'
+gem 'gritter', '~> 1.2'
 
 
 
